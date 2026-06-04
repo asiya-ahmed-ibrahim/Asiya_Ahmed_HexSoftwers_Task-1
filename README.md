@@ -16,7 +16,7 @@ A professional web development project completed for HexSoftwares, showcasing cl
 
 ## 📖 About
 
-This is a professional project completed as part of HexSoftwares development team. It demonstrates:
+This is a professional project completed as part of HexSoftwares intern. It demonstrates:
 - Professional code standards
 - Responsive web design
 - Clean architecture
@@ -76,17 +76,8 @@ This project implements modern web development principles with:
 
 ## 🚀 Usage
 
-### Basic Navigation
-1. **Landing Page** - Introduction and overview
-2. **Main Content** - Core project information
-3. **Features Section** - Project highlights
-4. **Gallery** - Visual showcase
-5. **Contact** - Get in touch
-
 ### Interactive Elements
 - **Buttons** - Click to navigate and interact
-- **Forms** - Fill out for submissions
-- **Modals** - Pop-up dialogs for additional info
 - **Animations** - Smooth transitions and effects
 
 ## 📁 Project Structure
@@ -255,7 +246,6 @@ This project is open source under the MIT License.
 
 ## 🙏 Acknowledgments
 
-- HexSoftwares team for guidance
 - Modern web development community
 - Open source resources and tools
 - Peer reviewers and contributors
